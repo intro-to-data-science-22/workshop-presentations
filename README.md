@@ -1,6 +1,6 @@
 # Workshop presentations
 
-Please publish your presentation materials in a repo that you create in our workshop organization at https://github.com/intro-to-data-science-21-workshop. There's a naming convention for the repos, which should indicate the order that you presented, your name (one group member only), and a very brief description, all separated by dashes. E.g.: `01-FirstnameLastname-Topic/`.
+Please publish your presentation materials in a repo that you create in our workshop organization at https://github.com/intro-to-data-science-22-workshop. There's a naming convention for the repos, which should indicate the workshop number (see below), your name (one group member only), and a very brief description, all lowercase and separated by dashes. E.g.: `01-firstname-lastname-topic/`.
 
 ## R Markdown
 
@@ -15,24 +15,23 @@ There are multiple ways to record your computer screen and voice for the present
 
 Topics will be randomly allocated to groups of 2 students. Both of you should contribute to both the presentation and the practice session, but you can divide main responsibilities.
 
-| Workshop | Topic | Resources | Materials |
+| Workshop | Focus | Topic | Resources | 
 |---------|-------|-----------|-----------|
-| 01 | Working with JSON and jsonlite | [a](https://cran.r-project.org/web/packages/jsonlite/index.html), [b](https://www.json.org/json-en.html) |  | 
-| 02 | Connecting to web APIs | [a](https://zapier.com/learn/apis/), [b](https://raw.githack.com/uo-ec607/lectures/master/07-web-apis/07-web-apis.html) |  | 
-| 03 | Dynamic web scraping with RSelenium | [a](https://github.com/ropensci/RSelenium), [b](https://www.selenium.dev/) |  | 
-| 04 | Creating web APIs with plumber | [a](https://www.rplumber.io/), [b](https://github.com/rstudio/cheatsheets/raw/master/plumber.pdf) |  |
-| 05 | Regular expressions with stringr | [a](http://www.r-datacollection.com/), [b](https://github.com/rstudio/cheatsheets/raw/master/regex.pdf) |  | 
-| 06 | String manipulation with stringr | [a](http://www.r-datacollection.com/), [b](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf) |  | 
-| 07 | Cleaning dirty data with janitor | [a](https://github.com/sfirke/janitor), [b](http://sfirke.github.io/janitor/articles/janitor.html) |  |
-| 08 | Categorical variables with forcats | [a](https://forcats.tidyverse.org/), [b](https://r4ds.had.co.nz/factors.html) |  |
-| 09 | Wrangling data at scale with data.table | [a](https://rdatatable.gitlab.io/data.table/), [b](https://github.com/tidyverse/dtplyr) |  |
-| 10 | Dates and times with lubridate | [a](https://lubridate.tidyverse.org/), [b](https://r4ds.had.co.nz/dates-and-times.html) |  |
-| 11 | Network graphs with ggraph and tidygraph | [a](https://ggraph.data-imaginist.com/), [b](https://tidygraph.data-imaginist.com/) |  |
-| 12 | Interactive maps with leaflet | [a](https://rstudio.github.io/leaflet/), [b](https://leafletjs.com/reference-1.7.1.html) |  |
-| 13 | Interactive graphics with plotly | [a](https://github.com/ropensci/plotly), [b](https://plotly.com/r/) |  |
-| 14 | Text analysis with quanteda | [a](https://quanteda.io/), [b](https://joss.theoj.org/papers/10.21105/joss.00774) |  |
-| 15 | CRS with sf | [a](https://geocompr.robinlovelace.net/spatial-class.html#crs-intro), [b](https://r-spatial.github.io/sf/index.html) |  |
-| 16 | Geocoding with sf | [a](https://r-spatial.github.io/sf/index.html), [b](https://lost-stats.github.io/Geo-Spatial/geocoding.html) |  |
-| 17 | Temporal data with tsibble | [a](https://tsibble.tidyverts.org/), [b](https://fable.tidyverts.org/) |  |
-| 18 | Tidy modeling | [a](https://www.tidymodels.org/), [b](https://tidymodels.tidymodels.org/) |  |
+| 01 | Data wrangling | Creating web APIs with plumber | [a](https://www.rplumber.io/), [b](https://github.com/rstudio/cheatsheets/raw/master/plumber.pdf) |
+| 02 | Data wrangling | Cleaning dirty data with janitor | [a](https://github.com/sfirke/janitor), [b](http://sfirke.github.io/janitor/articles/janitor.html) |
+| 03 | Data wrangling | Categorical variables with forcats | [a](https://forcats.tidyverse.org/), [b](https://r4ds.had.co.nz/factors.html) |
+| 04 | Data wrangling | Dates and times with lubridate | [a](https://lubridate.tidyverse.org/), [b](https://r4ds.had.co.nz/dates-and-times.html) |
+| 05 | Data wrangling | Wrangling data at scale with data.table | [a](https://rdatatable.gitlab.io/data.table/), [b](https://github.com/tidyverse/dtplyr) |
+| 06 | Visualization | Network graphs with ggraph and tidygraph | [a](https://ggraph.data-imaginist.com/), [b](https://tidygraph.data-imaginist.com/) |
+| 07 | Visualization | Interactive maps with leaflet | [a](https://rstudio.github.io/leaflet/), [b](https://leafletjs.com/reference-1.7.1.html) |
+| 08 | Visualization | Interactive graphics with plotly | [a](https://github.com/ropensci/plotly), [b](https://plotly.com/r/) |
+| 09 | Data analysis | Text analysis with quanteda | [a](https://quanteda.io/), [b](https://joss.theoj.org/papers/10.21105/joss.00774) |
+| 10 | Data analysis | CRS with sf | [a](https://geocompr.robinlovelace.net/spatial-class.html#crs-intro), [b](https://r-spatial.github.io/sf/index.html) |
+| 11 | Data analysis | Geocoding with sf | [a](https://r-spatial.github.io/sf/index.html), [b](https://lost-stats.github.io/Geo-Spatial/geocoding.html) |
+| 12 | Data analysis | Temporal data with tsibble | [a](https://tsibble.tidyverts.org/), [b](https://fable.tidyverts.org/) |
+| 13 | Data analysis | Tidy modeling | [a](https://www.tidymodels.org/), [b](https://tidymodels.tidymodels.org/) |
+| 14 | Workflow | Ensuring reproducibility with renv | [a](https://rstudio.github.io/renv/), [b](https://rstudio.github.io/renv/articles/renv.html) |
+| 15 | Workflow | Establishing pipelines with targets | [a](https://docs.ropensci.org/targets/), [b](https://docs.ropensci.org/targets/) |
+| 16 | Workflow | Publishing with Quarto | [a](https://quarto.org/), [b](https://quarto.org/docs/guide/) |
+
 
