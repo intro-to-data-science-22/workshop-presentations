@@ -1,6 +1,6 @@
 # Workshop presentations
 
-Please publish your presentation materials in a repo that you create in our workshop organization at https://github.com/intro-to-data-science-22-workshop. There's a naming convention for the repos, which should indicate the workshop number (see below), your name (one group member only), and a very brief description, all lowercase and separated by dashes. E.g.: `01-firstname-lastname-topic/`.
+Please publish your presentation materials in a repo that you create in our workshop organization at https://github.com/intro-to-data-science-22-workshop. There's a naming convention for the repos, which should indicate the workshop number (see below), your name (one group member only), and a very brief description, all lowercase and separated by dashes. E.g.: `01-topic-lastname1-lastname2/`.
 
 ## R Markdown
 
@@ -26,12 +26,16 @@ Topics will be randomly allocated to groups of 2 students. Both of you should co
 | 07 | Visualization | Interactive maps with leaflet | [a](https://rstudio.github.io/leaflet/), [b](https://leafletjs.com/reference-1.7.1.html) |
 | 08 | Visualization | Interactive graphics with plotly | [a](https://github.com/ropensci/plotly), [b](https://plotly.com/r/) |
 | 09 | Data analysis | Text analysis with quanteda | [a](https://quanteda.io/), [b](https://joss.theoj.org/papers/10.21105/joss.00774) |
-| 10 | Data analysis | CRS with sf | [a](https://geocompr.robinlovelace.net/spatial-class.html#crs-intro), [b](https://r-spatial.github.io/sf/index.html) |
-| 11 | Data analysis | Geocoding with sf | [a](https://r-spatial.github.io/sf/index.html), [b](https://lost-stats.github.io/Geo-Spatial/geocoding.html) |
-| 12 | Data analysis | Temporal data with tsibble | [a](https://tsibble.tidyverts.org/), [b](https://fable.tidyverts.org/) |
-| 13 | Data analysis | Tidy modeling | [a](https://www.tidymodels.org/), [b](https://tidymodels.tidymodels.org/) |
-| 14 | Workflow | Ensuring reproducibility with renv | [a](https://rstudio.github.io/renv/), [b](https://rstudio.github.io/renv/articles/renv.html) |
-| 15 | Workflow | Establishing pipelines with targets | [a](https://docs.ropensci.org/targets/), [b](https://docs.ropensci.org/targets/) |
-| 16 | Workflow | Publishing with Quarto | [a](https://quarto.org/), [b](https://quarto.org/docs/guide/) |
+| 10 | Data analysis | Tidying text data with tidytext | [a](https://www.tidytextmining.com/), [b](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) |
+| 11 | Data analysis | Coordinate reference systems with sf | [a](https://geocompr.robinlovelace.net/spatial-class.html#crs-intro), [b](https://r-spatial.github.io/sf/index.html) |
+| 12 | Data analysis | Geocoding with sf | [a](https://r-spatial.github.io/sf/index.html), [b](https://lost-stats.github.io/Geo-Spatial/geocoding.html) |
+| 13 | Data analysis | Temporal data with tsibble and fable | [a](https://tsibble.tidyverts.org/), [b](https://fable.tidyverts.org/) |
+| 14 | Programming | Measuring and improving performance | [a](https://adv-r.hadley.nz/perf-measure.html), [b](https://adv-r.hadley.nz/perf-improve.html) |
+| 15 | Programming | Parallel programming with future | [a](https://raw.githack.com/uo-ec607/lectures/master/12-parallel/12-parallel.html), [b](https://cran.r-project.org/web/packages/future/vignettes/future-1-overview.html) |
+| 16 | Workflow | Ensuring reproducibility with renv | [a](https://rstudio.github.io/renv/), [b](https://rstudio.github.io/renv/articles/renv.html) |
+| 17 | Workflow | Establishing pipelines with targets | [a](https://docs.ropensci.org/targets/), [b](https://docs.ropensci.org/targets/) |
+| 18 | Workflow | Creating R packages | [a](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/), [b](https://r-pkgs.org/) |
+| 19 | Publication | Publishing with Quarto | [a](https://quarto.org/), [b](https://quarto.org/docs/guide/) |
+| 20 | Publication | Publishing websites with GitHub pages | [a](https://pages.github.com/), [b](https://docs.github.com/en/pages/quickstart) |
 
 
