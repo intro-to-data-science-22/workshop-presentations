@@ -33,9 +33,9 @@ Topics will be randomly allocated to groups of 2 students. Both of you should co
 | 14 | Programming | Measuring and improving performance | [a](https://adv-r.hadley.nz/perf-measure.html), [b](https://adv-r.hadley.nz/perf-improve.html) |
 | 15 | Programming | Parallel programming with future | [a](https://raw.githack.com/uo-ec607/lectures/master/12-parallel/12-parallel.html), [b](https://cran.r-project.org/web/packages/future/vignettes/future-1-overview.html) |
 | 16 | Workflow | Ensuring reproducibility with renv | [a](https://rstudio.github.io/renv/), [b](https://rstudio.github.io/renv/articles/renv.html) |
-| 17 | Workflow | Establishing pipelines with targets | [a](https://docs.ropensci.org/targets/), [b](https://docs.ropensci.org/targets/) |
+| 17 | Workflow | Establishing pipelines with targets | [a](https://docs.ropensci.org/targets/), [b](https://books.ropensci.org/targets/) |
 | 18 | Workflow | Creating R packages | [a](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/), [b](https://r-pkgs.org/) |
-| 19 | Publication | Publishing with Quarto | [a](https://quarto.org/), [b](https://quarto.org/docs/guide/) |
+| 19 | Publication | Publishing with Quarto | [a](https://quarto.org/), [b](https://github.com/mcanouil/awesome-quarto) |
 | 20 | Publication | Publishing websites with GitHub pages | [a](https://pages.github.com/), [b](https://docs.github.com/en/pages/quickstart) |
 
 
